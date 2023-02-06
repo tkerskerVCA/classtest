@@ -15,4 +15,4 @@ a a 3 3 3 d d d a a 4 4 4 e e .
 . . e e b b 4 4 4 4 b e e . . . 
 . . . e e e e e e e e . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"MlU?QHva!2pXq@Tp$aAW"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="*$iWLVD)x.R]x[[Nn+87"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"MlU?QHva!2pXq@Tp$aAW"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="*$iWLVD)x.R]x[[Nn+87"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetpos" id="ouFtir3@?UL)UJ^U2sf`"><value name="sprite"><block type="variables_get" id="1+tR[Ki6:EclvU1qZjk)"><field name="VAR" id="2UZmRCr7V5+)TcVz_*f%">mySprite</field></block></value><value name="x"><shadow type="positionPicker" id="fmUu/?xvx~.YiH[n/y;X"><field name="index">140</field></shadow></value><value name="y"><shadow type="positionPicker" id="UbS%_}V4:C:4VdCO-:ox"><field name="index">58</field></shadow></value></block></next></block></statement></block></xml>
