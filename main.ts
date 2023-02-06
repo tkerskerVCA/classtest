@@ -1,4 +1,9 @@
-let mySprite = sprites.create(img`
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    mySprite.x = 70
+    mySprite.sayText("Why did I move?")
+})
+let mySprite: Sprite = null
+mySprite = sprites.create(img`
     . . . . . . b b b b a a . . . . 
     . . . . b b d d d 3 3 3 a a . . 
     . . . b d d d 3 3 3 3 3 3 a a . 
