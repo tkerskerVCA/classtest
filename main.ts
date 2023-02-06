@@ -1,3 +1,6 @@
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    game.splash("Isaiah Moron, Domain Name, Left is to the Yes")
+})
 let mySprite = sprites.create(img`
     . . . . . . b b b b a a . . . . 
     . . . . b b d d d 3 3 3 a a . . 
